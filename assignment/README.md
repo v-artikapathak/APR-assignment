@@ -101,9 +101,5 @@ Logistic Regression effectively distinguishes Demented and Nondemented groups.
 
 ---
 
-## 📈 Visualizations
-**Confusion Matrix:**  
-![Confusion Matrix](path_to_confusion_matrix_image.png)  
 
-**ROC Curves:**  
-![ROC Curve](path_to_roc_curve_image.png)
+
